@@ -10,6 +10,9 @@ Readme
         :target: https://riot-apy.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://img.shields.io/lgtm/grade/python/g/mAxYoLo01/Riot-APY.svg?logo=lgtm&logoWidth=18
+        :target: https://lgtm.com/projects/g/mAxYoLo01/Riot-APY/context:python
+
 
 Description
 -----------
