@@ -160,8 +160,8 @@ class CurrentGameParticipant:
 
 class GameCustomizationObject:
     def __init__(self, raw={}):
-        self.__category = raw['category'] if 'category' else None
-        self.__content = raw['content'] if 'content' else None
+        self.__category = raw['category'] if 'category' in raw else None
+        self.__content = raw['content'] if 'content' in raw else None
 
     @property
     def category(self) -> str:
