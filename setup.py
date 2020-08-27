@@ -43,6 +43,7 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/mAxYoLo01/riot_apy',
+    download_url='https://github.com/mAxYoLo01/Riot-APY/archive/0.1.0.tar.gz',
     version='0.1.0',
     zip_safe=False,
 )
